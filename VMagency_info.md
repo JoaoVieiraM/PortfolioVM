@@ -311,9 +311,18 @@ IGOR, 27
 Marketing & Estratégia
 "3 anos em eventos de grande porte. Agora aplica essa visão no digital."
 Força: Estratégia, marketing, visão de mercado
+
+EUGÊNIO JUNIOR
+Head de Processos & Design de Conversão
+"Design não é estética — é comportamento. Cada detalhe visual tem uma razão para converter."
+Formação: Análise de Dados + Engenharia de Banco de Dados (FIAP) · Designer Gráfico
+Especialidade: Design por vieses inconscientes para conversão, desenvolvimento comercial, branding inteligente
+Força: Inteligência de dados aplicada ao design, geração e recolhimento de leads, gestão de processos e projetos
 ```
 
-**Layout:** Grid 3 colunas. Cada card: número do founder (DM Mono, volt, grande), nome em Bebas Neue, role em DM Mono. Fundo `--surface`. Hover: borda volt aparece.
+**Layout:** Grid 2x2 (4 cards). Cada card: número do founder (DM Mono, volt, grande), nome em Bebas Neue, role em DM Mono. Fundo `--surface`. Hover: borda volt aparece.
+
+**Nota estratégica para o Claude Code:** O Eugênio representa o diferencial mais difícil de copiar da VMagency — design fundamentado em dados e psicologia de conversão. O card dele deve ter uma linha de copy extra: "Cada elemento visual tem uma razão científica para converter."
 
 ---
 
